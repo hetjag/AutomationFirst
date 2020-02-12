@@ -42,7 +42,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/BrowserDriver" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -181,15 +181,16 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="363" y="116" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1581449328887" />
-    <state x="437" y="0" key="CommitChangelistDialog2" timestamp="1581534891872">
+    <state x="437" y="0" key="CommitChangelistDialog2" timestamp="1581535060837">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="1980" y="-83" key="CommitChangelistDialog2/0.0.1366.728/1366.-257.1920.1160@1366.-257.1920.1160" timestamp="1581030594544" />
-    <state x="437" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581534891872" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1581023328613">
+    <state x="437" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581535060837" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1581535152659">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1581023328613" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581535152659" />
     <state width="1877" height="196" key="GridCell.Tab.0.bottom" timestamp="1581462875016">
       <screen x="1366" y="-256" width="1920" height="1160" />
     </state>
