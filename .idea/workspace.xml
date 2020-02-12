@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="affba792-9bad-4cdf-a51d-3befbacffd69" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BDDTestcase" beforeDir="false" afterPath="$PROJECT_DIR$/../BDDTestcase" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WebFirst/WebFistHomework1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WebFirst/WebFistHomework1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WebFirst/WebFistHomework1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/WebFirst/WebFistHomework1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculater3" beforeDir="false" afterPath="$PROJECT_DIR$/../calculater3" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XGSnsK6WYjrXrikWLnGAcYHdJl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/BrowserDriver" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Toshiba\IdeaProjects\WebFirstHomework\src\test\java\BrowserDriver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.WebFistHomework1">
+    <configuration name="WebFistHomework1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WebFirstHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebFirst.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebFirst" />
+      <option name="MAIN_CLASS_NAME" value="WebFirst.WebFistHomework1" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebFistHomework1.userShouldBeLoginPanelSuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WebFirstHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebFirst.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebFirst" />
+      <option name="MAIN_CLASS_NAME" value="WebFirst.WebFistHomework1" />
+      <option name="METHOD_NAME" value="userShouldBeLoginPanelSuccessfully" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebFistHomework1.userShouldBeLoginSccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WebFirstHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebFirst.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebFirst" />
+      <option name="MAIN_CLASS_NAME" value="WebFirst.WebFistHomework1" />
+      <option name="METHOD_NAME" value="userShouldBeLoginSccessfully" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebFistHomework1.userShouldBeRegisterSuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WebFirstHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebFirst.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebFirst" />
+      <option name="MAIN_CLASS_NAME" value="WebFirst.WebFistHomework1" />
+      <option name="METHOD_NAME" value="userShouldBeRegisterSuccessfully" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebFistHomework1.userShouldBeSignInSuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WebFirstHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebFirst.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebFirst" />
+      <option name="MAIN_CLASS_NAME" value="WebFirst.WebFistHomework1" />
+      <option name="METHOD_NAME" value="userShouldBeSignInSuccessfully" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WebFistHomework1" />
+        <item itemvalue="JUnit.WebFistHomework1.userShouldBeRegisterSuccessfully" />
+        <item itemvalue="JUnit.WebFistHomework1.userShouldBeLoginSccessfully" />
+        <item itemvalue="JUnit.WebFistHomework1.userShouldBeSignInSuccessfully" />
+        <item itemvalue="JUnit.WebFistHomework1.userShouldBeLoginPanelSuccessfully" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="affba792-9bad-4cdf-a51d-3befbacffd69" name="Default Changelist" comment="" />
+      <created>1580671107256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580671107256</updated>
+    </task>
+    <task id="LOCAL-00001" summary="WebFirstHomework1">
+      <created>1581030152287</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581030152287</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="WebFirstHomework1" />
+    <option name="LAST_COMMIT_MESSAGE" value="WebFirstHomework1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="363" y="116" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581449328887">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="116" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1581449328887" />
+    <state x="437" y="0" key="CommitChangelistDialog2" timestamp="1581534891872">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="1980" y="-83" key="CommitChangelistDialog2/0.0.1366.728/1366.-257.1920.1160@1366.-257.1920.1160" timestamp="1581030594544" />
+    <state x="437" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581534891872" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1581023328613">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1581023328613" />
+    <state width="1877" height="196" key="GridCell.Tab.0.bottom" timestamp="1581462875016">
+      <screen x="1366" y="-256" width="1920" height="1160" />
+    </state>
+    <state width="1306" height="312" key="GridCell.Tab.0.bottom/0.0.1366.728/-182.-1200.1920.1160@-182.-1200.1920.1160" timestamp="1581367644479" />
+    <state width="1323" height="381" key="GridCell.Tab.0.bottom/0.0.1366.728/-182.-1200.1920.1160@0.0.1366.728" timestamp="1581367320334" />
+    <state width="1877" height="196" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-256.1920.1160@1366.-256.1920.1160" timestamp="1581462875016" />
+    <state width="1323" height="268" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1581024593037" />
+    <state width="1877" height="492" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-257.1920.1160@1366.-257.1920.1160" timestamp="1581029902989" />
+    <state width="1323" height="151" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581449715517" />
+    <state width="1877" height="196" key="GridCell.Tab.0.center" timestamp="1581462875016">
+      <screen x="1366" y="-256" width="1920" height="1160" />
+    </state>
+    <state width="1306" height="312" key="GridCell.Tab.0.center/0.0.1366.728/-182.-1200.1920.1160@-182.-1200.1920.1160" timestamp="1581367644478" />
+    <state width="1323" height="381" key="GridCell.Tab.0.center/0.0.1366.728/-182.-1200.1920.1160@0.0.1366.728" timestamp="1581367320334" />
+    <state width="1877" height="196" key="GridCell.Tab.0.center/0.0.1366.728/1366.-256.1920.1160@1366.-256.1920.1160" timestamp="1581462875016" />
+    <state width="1323" height="268" key="GridCell.Tab.0.center/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1581024593036" />
+    <state width="1877" height="492" key="GridCell.Tab.0.center/0.0.1366.728/1366.-257.1920.1160@1366.-257.1920.1160" timestamp="1581029902989" />
+    <state width="1323" height="151" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581449715517" />
+    <state width="1877" height="196" key="GridCell.Tab.0.left" timestamp="1581462875016">
+      <screen x="1366" y="-256" width="1920" height="1160" />
+    </state>
+    <state width="1306" height="312" key="GridCell.Tab.0.left/0.0.1366.728/-182.-1200.1920.1160@-182.-1200.1920.1160" timestamp="1581367644478" />
+    <state width="1323" height="381" key="GridCell.Tab.0.left/0.0.1366.728/-182.-1200.1920.1160@0.0.1366.728" timestamp="1581367320334" />
+    <state width="1877" height="196" key="GridCell.Tab.0.left/0.0.1366.728/1366.-256.1920.1160@1366.-256.1920.1160" timestamp="1581462875016" />
+    <state width="1323" height="268" key="GridCell.Tab.0.left/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1581024593036" />
+    <state width="1877" height="492" key="GridCell.Tab.0.left/0.0.1366.728/1366.-257.1920.1160@1366.-257.1920.1160" timestamp="1581029902989" />
+    <state width="1323" height="151" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581449715517" />
+    <state width="1877" height="196" key="GridCell.Tab.0.right" timestamp="1581462875016">
+      <screen x="1366" y="-256" width="1920" height="1160" />
+    </state>
+    <state width="1306" height="312" key="GridCell.Tab.0.right/0.0.1366.728/-182.-1200.1920.1160@-182.-1200.1920.1160" timestamp="1581367644478" />
+    <state width="1323" height="381" key="GridCell.Tab.0.right/0.0.1366.728/-182.-1200.1920.1160@0.0.1366.728" timestamp="1581367320334" />
+    <state width="1877" height="196" key="GridCell.Tab.0.right/0.0.1366.728/1366.-256.1920.1160@1366.-256.1920.1160" timestamp="1581462875016" />
+    <state width="1323" height="268" key="GridCell.Tab.0.right/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1581024593036" />
+    <state width="1877" height="492" key="GridCell.Tab.0.right/0.0.1366.728/1366.-257.1920.1160@1366.-257.1920.1160" timestamp="1581029902989" />
+    <state width="1323" height="151" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581449715517" />
+    <state x="205" y="26" key="Maven.ArtifactSearchDialog" timestamp="1580672442263">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="205" y="26" key="Maven.ArtifactSearchDialog/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580672442263" />
+    <state x="1918" y="55" key="Vcs.Push.Dialog.v2" timestamp="1581030777997">
+      <screen x="1366" y="-257" width="1920" height="1160" />
+    </state>
+    <state x="1918" y="55" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.-257.1920.1160@1366.-257.1920.1160" timestamp="1581030777997" />
+    <state x="379" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1581534748564">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="194" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-182.-1200.1920.1160@0.0.1366.728" timestamp="1581361873592" />
+    <state x="380" y="199" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.-256.1920.1160@0.0.1366.728" timestamp="1581534137854" />
+    <state x="379" y="194" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580935158994" />
+    <state x="1899" y="52" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.-257.1920.1160@1366.-257.1920.1160" timestamp="1580827121054" />
+    <state x="379" y="194" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581534748564" />
+    <state x="2135" y="239" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581029968717">
+      <screen x="1366" y="-257" width="1920" height="1160" />
+    </state>
+    <state x="2135" y="239" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/1366.-257.1920.1160@1366.-257.1920.1160" timestamp="1581029968717" />
+    <state x="65" y="59" key="new project wizard" timestamp="1581008037911">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="59" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1581008037911" />
+    <state x="338" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1581339456860">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="338" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1580672608706" />
+    <state x="338" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1581339456860" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/WebFirstHomework$WebFistHomework1_userShouldBeLoginPanelSuccessfully.ic" NAME="WebFistHomework1.userShouldBeLoginPanelSuccessfully Coverage Results" MODIFIED="1581367586965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>WebFirst.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/WebFirstHomework$WebFistHomework1_userShouldBeLoginSccessfully.ic" NAME="WebFistHomework1.userShouldBeLoginSccessfully Coverage Results" MODIFIED="1581369108842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>WebFirst.*</FILTER>
+    </SUITE>
+  </component>
+</project>
