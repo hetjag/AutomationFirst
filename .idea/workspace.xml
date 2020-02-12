@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="affba792-9bad-4cdf-a51d-3befbacffd69" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BDDTestcase" beforeDir="false" afterPath="$PROJECT_DIR$/../BDDTestcase" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Practice" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/WebFirst/WebFistHomework1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WebFirst/WebFistHomework1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/WebFirst/WebFistHomework1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/WebFirst/WebFistHomework1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../calculater3" beforeDir="false" afterPath="$PROJECT_DIR$/../calculater3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -181,16 +178,16 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="363" y="116" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1581449328887" />
-    <state x="437" y="0" key="CommitChangelistDialog2" timestamp="1581535060837">
+    <state x="437" y="0" key="CommitChangelistDialog2" timestamp="1581535171822">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="1980" y="-83" key="CommitChangelistDialog2/0.0.1366.728/1366.-257.1920.1160@1366.-257.1920.1160" timestamp="1581030594544" />
-    <state x="437" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581535060837" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1581535152659">
+    <state x="437" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581535171822" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1581535279310">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728/1366.-257.1920.1160@0.0.1366.728" timestamp="1581023328613" />
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581535152659" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581535279310" />
     <state width="1877" height="196" key="GridCell.Tab.0.bottom" timestamp="1581462875016">
       <screen x="1366" y="-256" width="1920" height="1160" />
     </state>
